@@ -1,0 +1,4 @@
+# ignore API key
+.env
+venv/
+
