@@ -1,0 +1,5 @@
+dotenv
+streamlit
+streamlit_chat
+langchain_community
+langchain
